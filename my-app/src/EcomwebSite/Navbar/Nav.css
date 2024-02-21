@@ -1,0 +1,20 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background:  linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(43,7,110,1) 49%, rgba(0,212,255,1) 100%);
+  align-items: center;
+  padding: 10px 10px;
+  box-shadow: 0px 5px 5px 0px #aeaeae;
+}
+.navleft {
+  padding: 10px;
+  list-style: none;
+  text-decoration: none;
+}
+.links {
+  list-style: none;
+  text-decoration: none;
+  padding: 10px;
+  letter-spacing: 1px;
+  color: #fff;
+}
